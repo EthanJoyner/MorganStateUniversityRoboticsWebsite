@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Generic Page
 permalink: /generic/
 ---
